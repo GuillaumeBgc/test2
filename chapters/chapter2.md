@@ -1,8 +1,7 @@
 ---
-title: '2-DEUXIEME PARTIE'
+title: 'AFM avec FactoMineR'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  "Ce chapitre présente l'analyse factorielles multiple illustrée à l'aide du package FactoMineR"
 prev: /chapter1
 next: /chapter3
 type: chapter
