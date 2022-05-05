@@ -1,48 +1,40 @@
 ---
-title: 1-PREMIERE PARTIE
+title: 'Chapitre 1 : ACP avec FactoMineR'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  "Ce chapitre présente l'analyse en composantes principales illustrée à l'aide du package FactoMineR"
 prev: null
 next: /chapter2
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="introduction" type="slides">
+<exercise id="1" title="Préparation des données" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Petit calcul">
+<exercise id="2" title="Choix des variables et individus">
 
-Combien font 1+1
+### Importation des données 
 
-<choice>
-<opt text="1">
+Ici, nous chargeons le jeu de données 'decathlon' portant sur la perfomance d'athlètes lors d'un decathlon. 
 
-This is not the correct answer.
+<codeblock id="01_02_01" ></codeblock>
+<codeblock id="01_02_02"></codeblock>
 
-</opt>
 
-<opt text="2" correct="true">
+### Visualiser les données
 
-Good job!
+Avant de réaliser une ACP il est important de connaître les données sur lequelles l'étude va être réalisée et la problématique de l'étude. Ici, nous avons des données concernant des performances à un decathlon, l'objectif sera d'étudier le profil des participants en fonctions de leur performance.
 
-</opt>
+Dans un premier temps, la fonction `head`permet de visualiser les premières lignes du jeu de données.
 
-<opt text="3">
-
-This is not correct either.
-
-</opt>
-</choice>
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Individus et variables actifs">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
@@ -59,3 +51,15 @@ This is a hint.
 </codeblock>
 
 </exercise>
+
+<exercise id="4" title="Pratique" type="slides">
+
+<html><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
+
+### QUIZZ
+<html>
+<img src="static/Graph_quiz1.png"></img>
+</html>
+</exercise>
+
