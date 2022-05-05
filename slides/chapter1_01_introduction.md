@@ -21,3 +21,7 @@ install.packages("factoextra")
 Afin de pouvoir utiliser ces packages il est important de les charger à l'aide de la fonction `library`.
 
 ---
+
+<html><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
+

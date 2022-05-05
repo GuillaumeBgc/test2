@@ -1,5 +1,5 @@
 ---
-title: 'AFM avec FactoMineR'
+title: 'Chapitre 2 : AFM avec FactoMineR'
 description:
   "Ce chapitre présente l'analyse factorielles multiple illustrée à l'aide du package FactoMineR"
 prev: /chapter1

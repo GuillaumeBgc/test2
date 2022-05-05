@@ -1,5 +1,5 @@
 ---
-title: 'ACP avec FactoMineR'
+title: 'Chapitre 1 : ACP avec FactoMineR'
 description:
   "Ce chapitre présente l'analyse en composantes principales illustrée à l'aide du package FactoMineR"
 prev: null
@@ -21,7 +21,8 @@ id: 1
 
 Ici, nous chargeons le jeu de données 'decathlon' portant sur la perfomance d'athlètes lors d'un decathlon. 
 
-<codeblock id="01_02_01">
+<codeblock id="01_02_01" ></codeblock>
+<codeblock id="01_02_02"></codeblock>
 
 
 ### Visualiser les données
@@ -50,3 +51,15 @@ This is a hint.
 </codeblock>
 
 </exercise>
+
+<exercise id="4" title="Pratique" type="slides">
+
+<html><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
+
+### QUIZZ
+<html>
+<img src="static/Graph_quiz1.png"></img>
+</html>
+</exercise>
+

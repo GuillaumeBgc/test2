@@ -1,5 +1,5 @@
 ---
-title: 'AFCM avec FactoMineR'
+title: 'Chapitre 3 : AFCM avec FactoMineR'
 description:
   "Ce chapitre présente l'analyse factorielles des correspondances multiples illustrée à l'aide du package FactoMineR"
 prev: /chapter2
