@@ -55,11 +55,11 @@ This is a hint.
 <exercise id="4" title="Pratique" type="slides">
 
 <html><center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br><br><br><br><br></html>
 
 ### QUIZZ
-<html>
-<img src="static/Graph_quiz1.png"></img>
-</html>
+
+![](https://github.com/GuillaumeBgc/test2/blob/master/static/Graph_quiz1.png?raw=true)
 </exercise>
 
