@@ -2,38 +2,26 @@
 type: slides
 ---
 
-# Introduction
+# Installation et chargement des packages 
 
-Notes: Text at the end of a slide prefixed like this will be displayed as
-speaker notes on the side. Slides can be separated with a divider: ---.
+Notes: Avant de commencer il est nécessaire d'installer le ou les package(s) essentiels à notre ACP en utilisant la fonction `install.packages`.
 
 ---
 
-# This is a slide
+# Les différents packages
 
 ```r
-# Print something
-print(1+1)
+install.packages("FactoMineR")
+install.packages("factoextra")
+##dans cet exemple les package sont déjà installés.
 ```
 
-```out
-2
-```
+*Dans notre cas nous installons les packages `FactoMineR` (dédié à l'analyse) et  `factoextra` (dédié à la visualisation et l'interprétation).*
 
-- Slides can have code, bullet points, tables and pretty much all other Markdown
-  elements.
-- This is another bullet point.
-
-<img src="profile.jpg" alt="This image is in /static" width="25%">
-
-Some more notes go here
+Afin de pouvoir utiliser ces packages il est important de les charger à l'aide de la fonction `library`.
 
 ---
 
-# Let's practice!
+<html><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
 
-Notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique
-libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non
-commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat
-semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec
-velit nec, consectetur placerat enim.
