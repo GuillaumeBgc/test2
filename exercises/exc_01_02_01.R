@@ -1,1 +1,1 @@
-decathlon <- read_csv("data/decathlon.csv")
+decathlon <- read.table("data/decathlon.csv")
