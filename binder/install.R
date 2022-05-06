@@ -1,7 +1,6 @@
+install.packages("tidyverse")
 install.packages("FactoMineR")
 install.packages("SensoMineR")
-install.packages("devtools")
-library(devtools)
 install.packages("remotes")
 library(remotes)
 remotes::install_github("cbail/textnets", dependencies = TRUE)
