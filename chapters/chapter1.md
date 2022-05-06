@@ -18,13 +18,17 @@ id: 1
 <exercise id="2" title="Choix des variables et individus">
 
 ### Importation des données 
+Première chose, on importe la librairie contenan les jeux de données nécéssaires.
+
+<codeblock id="01_02_01"></codeblock>
 
 Ici, nous chargeons le jeu de données 'decathlon' portant sur la perfomance d'athlètes lors d'un decathlon. 
 
-<codeblock id="01_02_01" ></codeblock>
 <codeblock id="01_02_02"></codeblock>
 
+Nous pouvons également lancer le package FactoMineR
 
+<codeblock id="01_02_03" ></codeblock>
 ### Visualiser les données
 
 Avant de réaliser une ACP il est important de connaître les données sur lequelles l'étude va être réalisée et la problématique de l'étude. Ici, nous avons des données concernant des performances à un decathlon, l'objectif sera d'étudier le profil des participants en fonctions de leur performance.
@@ -55,10 +59,11 @@ This is a hint.
 <exercise id="4" title="Pratique" type="slides">
 
 <html><center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FgakZw6K1QQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<br><br><br><br><br></html>
 
 ### QUIZZ
 
-![](https://github.com/GuillaumeBgc/test2/blob/master/static/Graph_quiz1.png?raw=true)
+![](https://github.com/GuillaumeBgc/test2/blob/binder/static/Graph_quiz1.png?raw=true)
 </exercise>
 
