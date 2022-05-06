@@ -1,4 +1,5 @@
 install.packages("FactoMineR")
+install.packages("SensoMineR")
 install.packages("devtools")
 library(devtools)
 install.packages("remotes")
