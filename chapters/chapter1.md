@@ -60,6 +60,10 @@ This is a hint.
 
 ### QUIZZ
 
+<<<<<<< HEAD
 ![](https://github.com/GuillaumeBgc/test2/blob/binder/static/Graph_quiz1.png?raw=true)
+=======
+![](https://github.com/GuillaumeBgc/test2/blob/master/static/Graph_quiz1.png?raw=true)
+>>>>>>> master
 </exercise>
 

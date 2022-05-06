@@ -1,7 +1,10 @@
 library(ggplot2)
 library(FactoMineR)
 
+<<<<<<< HEAD
+=======
 head(decathlon)
+>>>>>>> binder
 mtcars$gear <- factor(mtcars$gear,levels=c(3,4,5),
   	labels=c("3gears","4gears","5gears"))
 mtcars$am <- factor(mtcars$am,levels=c(0,1),
